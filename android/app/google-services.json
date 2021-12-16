@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1082201721355",
+    "firebase_url": "https://petmet-268a4.firebaseio.com",
+    "project_id": "petmet-268a4",
+    "storage_bucket": "petmet-268a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082201721355:android:6d2190a84bce23951ed50e",
+        "android_client_info": {
+          "package_name": "com.petmet.petmet_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082201721355-qb9f82fk0utk6al1emum0bakovmdv5ao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.petmet.petmet_app",
+            "certificate_hash": "e9edc697a38b9016831bc135799cff95ca5fd9ba"
+          }
+        },
+        {
+          "client_id": "1082201721355-aeu9ggdpbfehqinalurbvrn7n2ok07th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCMg6tvDBS_t_-pvT-uN395JdQrjfCbR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082201721355-aeu9ggdpbfehqinalurbvrn7n2ok07th.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

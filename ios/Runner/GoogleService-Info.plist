@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1082201721355-hkrvh1vi9645d1ve6005geplgdab0acl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1082201721355-hkrvh1vi9645d1ve6005geplgdab0acl</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1082201721355-0lq38n0o4curp84pl93qq60j6in4nebu.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDl8Q71tWNvWgDVgpTcMyvuh9gjxI80cW0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1082201721355</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.petmet.petmetMainAppIos</string>
+	<key>PROJECT_ID</key>
+	<string>petmet-268a4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>petmet-268a4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1082201721355:ios:8ba71ade6aa3b8281ed50e</string>
+	<key>DATABASE_URL</key>
+	<string>https://petmet-268a4.firebaseio.com</string>
+</dict>
+</plist>
